@@ -20,7 +20,8 @@ Use this code to build a very simple password generator. Use the Website to buil
 
 ## Credits
 
-Shout out to my Study Group, Google, <a href="https://validator.w3.org/">Validator</a>, <a href="www.w3schools.com/">W3</a>, <a href=" https://developer.mozilla.org/en-US/docs/Learn/JavaScript/First_steps/What_is_JavaScript">Mozilla</a> 
+Shout out to my Study Group, Google, <a href="https://validator.w3.org/">Validator</a>, 
+<a href="www.w3schools.com/">W3</a>, <a href="https://developer.mozilla.org/en-US/docs/Learn/JavaScript/First_steps/What_is_JavaScript/">Mozilla</a> 
 
 ## Project GitHub Repo
 

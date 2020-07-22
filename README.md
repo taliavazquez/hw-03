@@ -29,6 +29,6 @@ Shout out to my Study Group, Google, <a href="https://validator.w3.org/">Validat
 
 ## Project Website
 
-<a href="https://github.com/taliavazquez/hw-03"><bold>DEMPLOY THE SITE</bold></a>
+<a href="https://taliavazquez.github.io/hw-03/"><bold>DEMPLOYED SITE</bold></a>
 
 © 2020 Talia Vazquez

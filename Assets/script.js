@@ -32,7 +32,7 @@ var upperCase = 'QWERTYUIOPASDFGHJKLZXCVBNM'.split('');
              input.push(lowerCase);
           }
           if (upperCase) {
-            input.push( upperCase);
+            input.push(upperCase);
           }
           if (numericCharacter) {
               input.push(number);

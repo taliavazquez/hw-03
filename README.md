@@ -25,10 +25,10 @@ Shout out to my Study Group, Google, <a href="https://validator.w3.org/">Validat
 
 ## Project GitHub Repo
 
-<a href="https://github.com/taliavazquez/hw-03"><bold>My GitHub</bold></a>
+<a href="https://github.com/taliavazquez/password-generator"><bold>My GitHub</bold></a>
 
 ## Project Website
 
-<a href="https://taliavazquez.github.io/hw-03/"><bold>DEMPLOYED SITE</bold></a>
+<a href="https://taliavazquez.github.io/password-generator/"><bold>DEMPLOYED SITE</bold></a>
 
 © 2020 Talia Vazquez

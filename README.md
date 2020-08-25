@@ -1,10 +1,8 @@
-The following image shows the code generator.
-
-![password generator demo](./Assets/03-javascript-homework-demo.png)
-
 # Project Title
 
 Password Generator
+
+![password generator demo](./Assets/03-javascript-homework-demo.png)
 
 ## Motivation
 
